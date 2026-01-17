@@ -40,6 +40,7 @@ This transforms long sessions into snackable, shareable content.
 This prototype demonstrates the complete end-to-end workflow.
 
 ---
+https://drive.google.com/file/d/1FZiv75cFC1l4qSdYQ6nozGbjpuG1Bdfx/view?usp=drivesdk
 
 ## 🧠 AI Approach (Conceptual)
 
@@ -93,4 +94,5 @@ PulsePoint AI reduces manual effort and accelerates content repurposing.
 
 This submission represents a functional prototype demonstrating the core
 idea, user flow, and GenAI-driven approach as required by the problem
+
 statement.
